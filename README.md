@@ -5,9 +5,9 @@
 - Đó chính là Python
 ## 2. Cấu trúc
 1. project
-..* src: thư mục chứa mã nguồn
-..* report: chứa báo cáo 
-..* exe: chứa file thực thi
+-src: thư mục chứa mã nguồn
+- report: chứa báo cáo 
+- exe: chứa file thực thi
 ## 3. HTTP 1.0/1.1
 - Tìm hiểu cách hoạt động
 - Dựa vào đó triển khai proxy server
