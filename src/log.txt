@@ -1,11 +1,1486 @@
-GET http://luugiathuy.com/cdn-cgi/styles/fonts/opensans-400.ttf HTTP/1.1
-Host: luugiathuy.com
+live.github.com:443
+CONNECT live.github.com:443 HTTP/1.1
+Host: live.github.com:443
 Proxy-Connection: keep-alive
-Origin: http://luugiathuy.com
 User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
-Accept: */*
-Referer: http://luugiathuy.com/cdn-cgi/styles/cf.errors.css
+
+
+http://www.phimmoi.net/
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
 Accept-Encoding: gzip, deflate
 Accept-Language: en-US,en;q=0.9
-Cookie: _ga=GA1.2.1283530940.1553948095; _gid=GA1.2.1388537812.1553948095; __cfduid=d90cdea986ffa5c6698a9ffb6ac47f8f81554006076
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+http://www.phimmoi.net/
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+http://www.phimmoi.net/
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+http://www.phimmoi.net/
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+http://www.phimmoi.net/
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+http://www.phimmoi.net/
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+URL: http://www.phimmoi.net/
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+URL: http://www.phimmoi.net/
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+URL: www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+URL: www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+URL: www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+api.openweathermap.org
+GET http://api.openweathermap.org/data/2.5/weather?lon=104.9087408&lat=10.4885586&units=metric&APPID=c93b4a667c8c9d1d1eb941621f899bb8 HTTP/1.1
+Host: api.openweathermap.org
+Accept-Encoding: gzip, deflate
+User-Agent: openweather-extension@jenslody.de/0~20170402.git34506a6-2 libsoup/2.66.0
+Connection: Keep-Alive
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554017360400; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+image.phimmoi.net
+GET http://image.phimmoi.net/film/8331/poster.thumb.jpg HTTP/1.1
+Host: image.phimmoi.net
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+image.phimmoi.net
+GET http://image.phimmoi.net/film/7553/poster.thumb.jpg HTTP/1.1
+Host: image.phimmoi.net
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+d.ants.vn
+GET http://d.ants.vn/hb/582992282,566256219/bids?url=http%3A%2F%2Fwww.phimmoi.net%2F&urlref= HTTP/1.1
+Host: d.ants.vn
+Proxy-Connection: keep-alive
+Origin: http://www.phimmoi.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: */*
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: au_aid=10975783378; au_gt=%221553853351%22; au_dv=%7B%22browser_version%22%3A63119%2C%22device_model%22%3A1%2C%22os%22%3A19%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A3%2C%22browser%22%3A1%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A6%7D; ad_rm=%22%22; ua_i=1553853351:1:63119:1:1:19:6:3; urtb_crit=660ddb9d-65b0-42b2-8b07-a3a481476c7c; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22123.20.118.218%22%7D; ad_vg=3; __cfduid=df1f5faa7aadb6e01094f8d8651503a3a1553954518; ip_i=1554006038:VN:1:29:3G:Vinaphone:4; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%223G%22%2C%22carrier%22%3A%22Vinaphone%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A4%7D; rtb_last_sync=1554006734280; ad_rmu=1554019164512
+If-None-Match: "-556868483"
+
+
+st-au.ants.vn
+GET http://st-au.ants.vn/proxy.html HTTP/1.1
+Host: st-au.ants.vn
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: au_aid=10975783378; au_gt=%221553853351%22; au_dv=%7B%22browser_version%22%3A63119%2C%22device_model%22%3A1%2C%22os%22%3A19%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A3%2C%22browser%22%3A1%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A6%7D; ad_rm=%22%22; ua_i=1553853351:1:63119:1:1:19:6:3; urtb_crit=660ddb9d-65b0-42b2-8b07-a3a481476c7c; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22123.20.118.218%22%7D; ad_vg=3; __cfduid=df1f5faa7aadb6e01094f8d8651503a3a1553954518; ip_i=1554006038:VN:1:29:3G:Vinaphone:4; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%223G%22%2C%22carrier%22%3A%22Vinaphone%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A4%7D; rtb_last_sync=1554006734280; ad_rmu=1554019164512
+If-Modified-Since: Wed, 11 Jan 2017 09:12:55 GMT
+
+
+image.phimmoi.net
+GET http://image.phimmoi.net/profile/3/medium.jpg HTTP/1.1
+Host: image.phimmoi.net
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; __utma=247746630.1108338085.1553917791.1554006104.1554015560.6
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868001&ns__t=1554018742389&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868001&ns__t=1554018742390&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868001&ns__t=1554018742391&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868001&ns__t=1554018742392&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868001&ns__t=1554018742393&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868025&ns__t=1554018742393&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868056&ns__t=1554018742394&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868033&ns__t=1554018742394&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868100&ns__t=1554018742395&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868023&ns__t=1554018742396&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868023&ns__t=1554018742398&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868023&ns__t=1554018742397&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868001&ns__t=1554018742400&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868025&ns__t=1554018742401&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868033&ns__t=1554018742401&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868100&ns__t=1554018742401&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868056&ns__t=1554018742401&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868023&ns__t=1554018742401&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868023&ns__t=1554018742402&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868001&ns__t=1554018742402&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868033&ns__t=1554018742402&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868056&ns__t=1554018742402&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868025&ns__t=1554018742402&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868100&ns__t=1554018742402&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868086&ns__t=1554018742403&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868001&ns__t=1554018742403&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868025&ns__t=1554018742407&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+b.scorecardresearch.com
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868100&ns__t=1554018742408&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868056&ns__t=1554018742407&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868033&ns__t=1554018742407&ns_c=UTF-8&cv=3.1&c8=Phim%20M%E1%BB%9Bi%20%7C%20Phim%20hay%20%7C%20Xem%20phim%20nhanh%20%7C%20Xem%20phim%20online%20%7C%20Phim%20HD%20vietsub%20hay%20nh%E1%BA%A5t&c7=http%3A%2F%2Fwww.phimmoi.net%2F&c9= HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+www.googletagservices.com
+GET http://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101 HTTP/1.1
+Host: www.googletagservices.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: */*
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d00fffd8dd085227764ea50094ea1bb6d1553954519
+If-None-Match: "1553685379633397"
+
+
+d.ants.vn
+GET http://d.ants.vn/delivery/zone/582992282,566256219.json?pv=10975783378l1554018743687&url=http%3A%2F%2Fwww.phimmoi.net%2F&platform=desktop&cp=&blockedIds=[]&urlref=&hostname=www.phimmoi.net&res=1920x1080&ab=true&hb={}&pl=html5 HTTP/1.1
+Host: d.ants.vn
+Proxy-Connection: keep-alive
+Origin: http://www.phimmoi.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: */*
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: au_aid=10975783378; au_gt=%221553853351%22; au_dv=%7B%22browser_version%22%3A63119%2C%22device_model%22%3A1%2C%22os%22%3A19%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A3%2C%22browser%22%3A1%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A6%7D; ad_rm=%22%22; ua_i=1553853351:1:63119:1:1:19:6:3; urtb_crit=660ddb9d-65b0-42b2-8b07-a3a481476c7c; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22123.20.118.218%22%7D; ad_vg=3; __cfduid=df1f5faa7aadb6e01094f8d8651503a3a1553954518; ip_i=1554006038:VN:1:29:3G:Vinaphone:4; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%223G%22%2C%22carrier%22%3A%22Vinaphone%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A4%7D; rtb_last_sync=1554006734280; ad_rmu=1554019164512
+
+
+t.ants.vn
+GET http://t.ants.vn/a1/pi?bc=7effc2e99d,10975783378l1554018743687,1554018743,10975783378,1,582992282,566243405,566243509,10385,1,579411384,579178960,2,0_1&t_rls=582992282-0-0-0&t_s=&t_z=582992282-579411384-582992282:1&t_age=&t_gd=&t_tp=&t_itr=&t_imk=&t_rm=&c_tp=124:1.0&c_itr=&c_imk=&c_rm=&c_gd=3&c_age=-&ti_area=29:1:VN&ti_gd=1&ti_age=4&ti_pl=1&ti_nw=3G:Vinaphone::4&ti_dv=1:1:6:19:1:63119&res=1920x1080&oid=&gd=3&loc=29-1-vn&url=http://www.phimmoi.net/&urlref=&hostname=www.phimmoi.net&zone=582992282-12-0 HTTP/1.1
+Host: t.ants.vn
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: au_aid=10975783378; au_gt=%221553853351%22; au_dv=%7B%22browser_version%22%3A63119%2C%22device_model%22%3A1%2C%22os%22%3A19%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A3%2C%22browser%22%3A1%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A6%7D; ad_rm=%22%22; ua_i=1553853351:1:63119:1:1:19:6:3; urtb_crit=660ddb9d-65b0-42b2-8b07-a3a481476c7c; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22123.20.118.218%22%7D; ad_vg=3; __cfduid=df1f5faa7aadb6e01094f8d8651503a3a1553954518; ip_i=1554006038:VN:1:29:3G:Vinaphone:4; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%223G%22%2C%22carrier%22%3A%22Vinaphone%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A4%7D; rtb_last_sync=1554006734280; ad_rmu=1554019164512
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/phim/doom-patrol-8331/ HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554020541896; uniad_preload_1032=1; __utma=247746630.1108338085.1553917791.1554015560.1554018743.7; __utmc=247746630; __utmt=1; __utmt_b=1; __utmb=247746630.3.10.1554018743; _gat_demographic=1
+
+
+image.phimmoi.net
+image.phimmoi.net
+GET http://image.phimmoi.net/profile/36833/thumb.jpg HTTP/1.1
+Host: image.phimmoi.net
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; __utma=247746630.1108338085.1553917791.1554015560.1554018743.7; __utmc=247746630; __utmt=1; __utmt_b=1; __utmb=247746630.3.10.1554018743; _gat_demographic=1
+
+
+GET http://image.phimmoi.net/profile/933/thumb.jpg HTTP/1.1
+Host: image.phimmoi.net
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; __utma=247746630.1108338085.1553917791.1554015560.1554018743.7; __utmc=247746630; __utmt=1; __utmt_b=1; __utmb=247746630.3.10.1554018743; _gat_demographic=1
+
+
+image.phimmoi.net
+GET http://image.phimmoi.net/profile/7444/thumb.jpg HTTP/1.1
+Host: image.phimmoi.net
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; __utma=247746630.1108338085.1553917791.1554015560.1554018743.7; __utmc=247746630; __utmt=1; __utmt_b=1; __utmb=247746630.3.10.1554018743; _gat_demographic=1
+
+
+image.phimmoi.net
+GET http://image.phimmoi.net/profile/2539/thumb.jpg HTTP/1.1
+Host: image.phimmoi.net
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; __utma=247746630.1108338085.1553917791.1554015560.1554018743.7; __utmc=247746630; __utmt=1; __utmt_b=1; __utmb=247746630.3.10.1554018743; _gat_demographic=1
+
+
+image.phimmoi.net
+GET http://image.phimmoi.net/profile/8227/thumb.jpg HTTP/1.1
+Host: image.phimmoi.net
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; __utma=247746630.1108338085.1553917791.1554015560.1554018743.7; __utmc=247746630; __utmt=1; __utmt_b=1; __utmb=247746630.3.10.1554018743; _gat_demographic=1
+
+
+d.ants.vn
+GET http://d.ants.vn/hb/566898235/bids?url=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&urlref=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: d.ants.vn
+Proxy-Connection: keep-alive
+Origin: http://www.phimmoi.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: */*
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: au_aid=10975783378; au_gt=%221553853351%22; au_dv=%7B%22browser_version%22%3A63119%2C%22device_model%22%3A1%2C%22os%22%3A19%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A3%2C%22browser%22%3A1%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A6%7D; ad_rm=%22%22; ua_i=1553853351:1:63119:1:1:19:6:3; urtb_crit=660ddb9d-65b0-42b2-8b07-a3a481476c7c; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22123.20.118.218%22%7D; ad_vg=3; __cfduid=df1f5faa7aadb6e01094f8d8651503a3a1553954518; ip_i=1554006038:VN:1:29:3G:Vinaphone:4; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%223G%22%2C%22carrier%22%3A%22Vinaphone%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A4%7D; rtb_last_sync=1554006734280; ad_rmu=1554019164512
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868025&ns__t=1554018759537&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+b.scorecardresearch.com
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868025&ns__t=1554018759540&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868025&ns__t=1554018759539&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868025&ns__t=1554018759543&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868025&ns__t=1554018759545&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868025&ns__t=1554018759546&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868001&ns__t=1554018759548&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868025&ns__t=1554018759549&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868033&ns__t=1554018759549&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868100&ns__t=1554018759552&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868056&ns__t=1554018759551&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+d.ants.vn
+GET http://d.ants.vn/delivery/zone/566898235.json?pv=l1554018761171&url=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&platform=desktop&blockedIds=[]&urlref=http%3A%2F%2Fwww.phimmoi.net%2F&hostname=www.phimmoi.net&res=1920x1080&ab=true&hb={}&pl=html5 HTTP/1.1
+Host: d.ants.vn
+Proxy-Connection: keep-alive
+Origin: http://www.phimmoi.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: */*
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: au_aid=10975783378; au_gt=%221553853351%22; au_dv=%7B%22browser_version%22%3A63119%2C%22device_model%22%3A1%2C%22os%22%3A19%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A3%2C%22browser%22%3A1%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A6%7D; ad_rm=%22%22; ua_i=1553853351:1:63119:1:1:19:6:3; urtb_crit=660ddb9d-65b0-42b2-8b07-a3a481476c7c; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22123.20.118.218%22%7D; ad_vg=3; __cfduid=df1f5faa7aadb6e01094f8d8651503a3a1553954518; ip_i=1554006038:VN:1:29:3G:Vinaphone:4; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%223G%22%2C%22carrier%22%3A%22Vinaphone%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A4%7D; rtb_last_sync=1554006734280; ad_rmu=1554019164512
+
+
+dsp-d.ants.vn
+GET http://dsp-d.ants.vn/user-sync?dsp=criteo&user_id=10975783378 HTTP/1.1
+Host: dsp-d.ants.vn
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: au_aid=10975783378; au_gt=%221553853351%22; au_dv=%7B%22browser_version%22%3A63119%2C%22device_model%22%3A1%2C%22os%22%3A19%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A3%2C%22browser%22%3A1%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A6%7D; ad_rm=%22%22; ua_i=1553853351:1:63119:1:1:19:6:3; urtb_crit=660ddb9d-65b0-42b2-8b07-a3a481476c7c; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22123.20.118.218%22%7D; ad_vg=3; __cfduid=df1f5faa7aadb6e01094f8d8651503a3a1553954518; ip_i=1554006038:VN:1:29:3G:Vinaphone:4; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%223G%22%2C%22carrier%22%3A%22Vinaphone%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A4%7D; rtb_last_sync=1554006734280; ad_rmu=1554019164512
+
+
+dsp-d.ants.vn
+GET http://dsp-d.ants.vn/user-sync?dsp=appier&user_id=10975783378 HTTP/1.1
+Host: dsp-d.ants.vn
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: au_aid=10975783378; au_gt=%221553853351%22; au_dv=%7B%22browser_version%22%3A63119%2C%22device_model%22%3A1%2C%22os%22%3A19%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A3%2C%22browser%22%3A1%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A6%7D; ad_rm=%22%22; ua_i=1553853351:1:63119:1:1:19:6:3; urtb_crit=660ddb9d-65b0-42b2-8b07-a3a481476c7c; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22123.20.118.218%22%7D; ad_vg=3; __cfduid=df1f5faa7aadb6e01094f8d8651503a3a1553954518; ip_i=1554006038:VN:1:29:3G:Vinaphone:4; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%223G%22%2C%22carrier%22%3A%22Vinaphone%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A4%7D; rtb_last_sync=1554006734280; ad_rmu=1554019164512
+
+
+d.ants.vn
+GET http://d.ants.vn/rtb/criteo/user-sync?user_id=10975783378&urtb_crit=660ddb9d-65b0-42b2-8b07-a3a481476c7c HTTP/1.1
+Host: d.ants.vn
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: au_aid=10975783378; au_gt=%221553853351%22; au_dv=%7B%22browser_version%22%3A63119%2C%22device_model%22%3A1%2C%22os%22%3A19%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A3%2C%22browser%22%3A1%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A6%7D; ad_rm=%22%22; ua_i=1553853351:1:63119:1:1:19:6:3; urtb_crit=660ddb9d-65b0-42b2-8b07-a3a481476c7c; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22123.20.118.218%22%7D; ad_vg=3; __cfduid=df1f5faa7aadb6e01094f8d8651503a3a1553954518; ip_i=1554006038:VN:1:29:3G:Vinaphone:4; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%223G%22%2C%22carrier%22%3A%22Vinaphone%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A4%7D; ad_rmu=1554019164512; rtb_last_sync=1554018761383
+
+
+pagead2.googlesyndication.com
+GET http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js HTTP/1.1
+Host: pagead2.googlesyndication.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: */*
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d71cda59023da5e8063417ad02aa7d8b41553963073
+If-None-Match: 12848175235413879418
+
+
+t.ants.vn
+GET http://t.ants.vn/a1/pi?bc=89dbaa8eb3,l1554018761171,1554018761,10975783378,1,566898235,566243405,566243509,15150,1,584090337,584090335,2,0_1&t_rls=566898235-0-0-0&t_s=&t_z=566898235-584090337-566898235:1&t_age=&t_gd=&t_tp=&t_itr=&t_imk=&t_rm=&c_tp=56:1,57:1&c_itr=&c_imk=&c_rm=&c_gd=3&c_age=-&ti_area=29:1:VN&ti_gd=1&ti_age=2&ti_pl=1&ti_nw=3G:Vinaphone::4&ti_dv=1:1:6:19:1:63119&res=1920x1080&oid=&gd=undefined&loc=--&url=http://www.phimmoi.net/phim/doom-patrol-8331/&urlref=http://www.phimmoi.net/&hostname=www.phimmoi.net&zone=566898235-12-0 HTTP/1.1
+Host: t.ants.vn
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: au_aid=10975783378; au_gt=%221553853351%22; au_dv=%7B%22browser_version%22%3A63119%2C%22device_model%22%3A1%2C%22os%22%3A19%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A3%2C%22browser%22%3A1%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A6%7D; ad_rm=%22%22; ua_i=1553853351:1:63119:1:1:19:6:3; urtb_crit=660ddb9d-65b0-42b2-8b07-a3a481476c7c; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22123.20.118.218%22%7D; ad_vg=3; __cfduid=df1f5faa7aadb6e01094f8d8651503a3a1553954518; ip_i=1554006038:VN:1:29:3G:Vinaphone:4; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%223G%22%2C%22carrier%22%3A%22Vinaphone%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A4%7D; ad_rmu=1554019164512; rtb_last_sync=1554018761383
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/phim/doom-patrol-8331/xem-phim.html HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554020541896; __utma=247746630.1108338085.1553917791.1554015560.1554018743.7; __utmc=247746630; __utmt=1; __utmt_b=1; _gat_demographic=1; uniad_preload_1032=2; __utmb=247746630.6.10.1554018743
+
+
+image.phimmoi.net
+GET http://image.phimmoi.net/profile/6497/medium.jpg HTTP/1.1
+Host: image.phimmoi.net
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; __utma=247746630.1108338085.1553917791.1554015560.1554018743.7; __utmc=247746630; __utmt=1; __utmt_b=1; _gat_demographic=1; __utmb=247746630.6.10.1554018743
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/userinfo.php?expires=1554018408&sig=jHBUEr7As8lMu1aSwVxYng&filmid=8331&h=14 HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: */*
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/xem-phim.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554020541896; __utma=247746630.1108338085.1553917791.1554015560.1554018743.7; __utmc=247746630; __utmt=1; __utmt_b=1; _gat_demographic=1; uniad_preload_1032=2; __utmb=247746630.6.10.1554018743
+
+
+image.phimmoi.net
+GET http://image.phimmoi.net/film/8331/poster.medium.jpg HTTP/1.1
+Host: image.phimmoi.net
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/xem-phim.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; __utma=247746630.1108338085.1553917791.1554015560.1554018743.7; __utmc=247746630; __utmt=1; __utmt_b=1; _gat_demographic=1; __utmb=247746630.6.10.1554018743
+
+
+api.openweathermap.org
+GET http://api.openweathermap.org/data/2.5/forecast/daily?lon=104.9087408&cnt=13&lat=10.4885586&units=metric&APPID=c93b4a667c8c9d1d1eb941621f899bb8 HTTP/1.1
+Host: api.openweathermap.org
+Accept-Encoding: gzip, deflate
+User-Agent: openweather-extension@jenslody.de/0~20170402.git34506a6-2 libsoup/2.66.0
+Connection: Keep-Alive
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/userinfo.php?expires=1554018357&sig=_IyL31CKyIh4mWnnDlIZOg&filmid=8331&h=14 HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: */*
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554020541896; __utma=247746630.1108338085.1553917791.1554015560.1554018743.7; __utmc=247746630; __utmt=1; __utmt_b=1; uniad_preload_1032=2; __utmb=247746630.6.10.1554018743
+
+
+image.phimmoi.net
+GET http://image.phimmoi.net/film/3016/poster.thumb.jpg HTTP/1.1
+Host: image.phimmoi.net
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; __utma=247746630.1108338085.1553917791.1554015560.1554018743.7; __utmc=247746630; __utmt=1; __utmt_b=1; __utmb=247746630.6.10.1554018743
+
+
+image.phimmoi.net
+GET http://image.phimmoi.net/film/1/poster.thumb.jpg HTTP/1.1
+Host: image.phimmoi.net
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; __utma=247746630.1108338085.1553917791.1554015560.1554018743.7; __utmc=247746630; __utmt=1; __utmt_b=1; __utmb=247746630.6.10.1554018743
+
+
+image.phimmoi.net
+GET http://image.phimmoi.net/film/2335/poster.thumb.jpg HTTP/1.1
+Host: image.phimmoi.net
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; __utma=247746630.1108338085.1553917791.1554015560.1554018743.7; __utmc=247746630; __utmt=1; __utmt_b=1; __utmb=247746630.6.10.1554018743
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868101&ns__t=1554018831168&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868001&ns__t=1554018831171&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868025&ns__t=1554018831171&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868101&ns__t=1554018831170&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868101&ns__t=1554018831169&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868033&ns__t=1554018831171&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868056&ns__t=1554018831171&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+b.scorecardresearch.com
+GET http://b.scorecardresearch.com/b?c1=8&c2=24651731&c3=19886868100&ns__t=1554018831172&ns_c=UTF-8&cv=3.1&c8=Doom%20Patrol-Doom%20Patrol%20(2019)%20%5BFull%20HD-Vietsub%5D&c7=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&c9=http%3A%2F%2Fwww.phimmoi.net%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: UID=10E1131712301206ca16f6c1553839719; UIDR=1553839719; __cfduid=dff5545125e8040e87a67ab88364e79691553954519
+
+
+d.ants.vn
+GET http://d.ants.vn/delivery/zone/566898235.json?pv=l1554018832822&url=http%3A%2F%2Fwww.phimmoi.net%2Fphim%2Fdoom-patrol-8331%2F&platform=desktop&blockedIds=[]&urlref=http%3A%2F%2Fwww.phimmoi.net%2F&hostname=www.phimmoi.net&res=1920x1080&ab=true&hb={}&pl=html5 HTTP/1.1
+Host: d.ants.vn
+Proxy-Connection: keep-alive
+Origin: http://www.phimmoi.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: */*
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: au_aid=10975783378; au_gt=%221553853351%22; au_dv=%7B%22browser_version%22%3A63119%2C%22device_model%22%3A1%2C%22os%22%3A19%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A3%2C%22browser%22%3A1%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A6%7D; ad_rm=%22%22; ua_i=1553853351:1:63119:1:1:19:6:3; urtb_crit=660ddb9d-65b0-42b2-8b07-a3a481476c7c; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22123.20.118.218%22%7D; ad_vg=3; __cfduid=df1f5faa7aadb6e01094f8d8651503a3a1553954518; ip_i=1554006038:VN:1:29:3G:Vinaphone:4; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%223G%22%2C%22carrier%22%3A%22Vinaphone%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A4%7D; ad_rmu=1554019164512; rtb_last_sync=1554018761383
+
+
+t.ants.vn
+GET http://t.ants.vn/a1/pi?bc=4c59bb9eac,l1554018832822,1554018832,10975783378,1,566898235,566243405,566243509,15150,1,584090337,584090335,2,0_1&t_rls=566898235-0-0-0&t_s=&t_z=566898235-584090337-566898235:1&t_age=&t_gd=&t_tp=&t_itr=&t_imk=&t_rm=&c_tp=56:1,57:1&c_itr=&c_imk=&c_rm=&c_gd=3&c_age=-&ti_area=29:1:VN&ti_gd=1&ti_age=2&ti_pl=1&ti_nw=3G:Vinaphone::4&ti_dv=1:1:6:19:1:63119&res=1920x1080&oid=&gd=undefined&loc=--&url=http://www.phimmoi.net/phim/doom-patrol-8331/&urlref=http://www.phimmoi.net/&hostname=www.phimmoi.net&zone=566898235-12-0 HTTP/1.1
+Host: t.ants.vn
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: au_aid=10975783378; au_gt=%221553853351%22; au_dv=%7B%22browser_version%22%3A63119%2C%22device_model%22%3A1%2C%22os%22%3A19%2C%22result%22%3A%22true%22%2C%22device_type%22%3A1%2C%22company%22%3A3%2C%22browser%22%3A1%2C%22ver%22%3A%2208032017%22%2C%22os_family%22%3A6%7D; ad_rm=%22%22; ua_i=1553853351:1:63119:1:1:19:6:3; urtb_crit=660ddb9d-65b0-42b2-8b07-a3a481476c7c; ad_vl=%7B%22province%22%3A29%2C%22zone%22%3A1%2C%22country%22%3A%22vn%22%2C%22ip%22%3A%22123.20.118.218%22%7D; ad_vg=3; __cfduid=df1f5faa7aadb6e01094f8d8651503a3a1553954518; ip_i=1554006038:VN:1:29:3G:Vinaphone:4; au_nw=%7B%22result%22%3A%22true%22%2C%22network_type%22%3A%223G%22%2C%22carrier%22%3A%22Vinaphone%22%2C%22ver%22%3A%2208032017%22%2C%22carrier_id%22%3A4%7D; ad_rmu=1554019164512; rtb_last_sync=1554018761383
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/phim/doom-patrol-8331/xem-phim.html HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554020541896; __utma=247746630.1108338085.1553917791.1554015560.1554018743.7; __utmc=247746630; __utmt=1; __utmt_b=1; uniad_preload_1032=2; __utmb=247746630.9.10.1554018743; _gat_demographic=1
+
+
+www.phimmoi.net
+GET http://www.phimmoi.net/userinfo.php?expires=1554018408&sig=jHBUEr7As8lMu1aSwVxYng&filmid=8331&h=14 HTTP/1.1
+Host: www.phimmoi.net
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Accept: */*
+Referer: http://www.phimmoi.net/phim/doom-patrol-8331/xem-phim.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: __cfduid=d1da0381c779b9ece8585dde26eac2b111553917783; __gads=ID=a1b4d7f94b7f4478:T=1553917790:S=ALNI_MbdWGGrPVYec3d_PHWKaWN7UcGlaQ; _ga=GA1.2.1108338085.1553917791; _gid=GA1.2.1283722006.1553917791; __utmz=247746630.1553917791.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lastview=1554007153; proxy_s_sv=1554020541896; __utma=247746630.1108338085.1553917791.1554015560.1554018743.7; __utmc=247746630; __utmt=1; __utmt_b=1; uniad_preload_1032=2; __utmb=247746630.9.10.1554018743; _gat_demographic=1
+
+
+api.openweathermap.org
+GET http://api.openweathermap.org/data/2.5/weather?lon=104.9087408&lat=10.4885586&units=metric&APPID=c93b4a667c8c9d1d1eb941621f899bb8 HTTP/1.1
+Host: api.openweathermap.org
+Accept-Encoding: gzip, deflate
+User-Agent: openweather-extension@jenslody.de/0~20170402.git34506a6-2 libsoup/2.66.0
+Connection: Keep-Alive
+
 
