@@ -12,6 +12,7 @@ class Proxy:
     MAX_DATA = 4096
     host = ""
     port = 0
+    should_close = False
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
     def parse_url(self, requests):
@@ -41,7 +42,7 @@ class Proxy:
 
     @staticmethod
     def __communicate(self, host, conn, requests):
-        print('Connect to ', host, ':', 80)
+        print('Connect to ', str(host) , ':', str(80))
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         s.settimeout(10)
 
@@ -49,10 +50,13 @@ class Proxy:
             s.connect((host, 80))
             s.send(requests)
 
-            while True:
+            while self.should_close == False:
                 data = bytes(s.recv(self.MAX_DATA))
                 if (len(data) > 0):
-                    conn.sendall(data)
+                    try:
+                        conn.sendall(data)
+                    except BrokenPipeError:
+                        log.log('Broken pipe error')
                 else:
                     break
 
@@ -73,12 +77,20 @@ class Proxy:
         self.server.bind((self.host, self.port))
         self.server.listen(False)
 
-        while True:
+        while self.should_close == False:
             conn, addr = self.server.accept()
             _thread.start_new_thread(self.__client_thread, (self, conn, addr))
+        
+        self.server.close()
 
     def close(self):
-        sefl.server.close()
+        temp = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        temp.connect((self.host, self.port))
+        temp.close()
+
+        self.should_close = False
+        self.server.close()
+        exit(0)
 
     
 

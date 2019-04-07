@@ -9,7 +9,6 @@ if (len(sys.argv) == 1):
 elif (len(sys.argv) == 2):
     port = int(sys.argv[1])
 
-print('Listening on port: ', port)
 proxy = proxy.Proxy('127.0.0.1', port)
 proxy.start()
 proxy.close()
