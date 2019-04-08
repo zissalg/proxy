@@ -58,13 +58,13 @@ class Proxy:
                     try:
                         conn.sendall(data)
                     except BrokenPipeError:
-                        log.log('Broken pipe error')
+                        log.log('Broken pipe error\n')
                 else:
                     break
 
             s.close()
         except socket.timeout:
-            print(host, ':', 80, ' requests timed out!')
+            log.log(host, ', request timed out!\n')
             s.close()
 
     @staticmethod
@@ -74,7 +74,7 @@ class Proxy:
         log.log(requests.decode('ASCII'))
 
         if (self.blacklist.isBan(webserver)):
-            print(webserver, ' is banned, close connection!!!')
+            log.log(webserver, ' is in blacklist\n')
             f = open('403.html', 'r')
             conn.sendall(f.read().encode('utf-8'))
             f.close()

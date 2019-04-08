@@ -1,9 +1,16 @@
+FILENAME = 'log.txt'
+logfile = open(FILENAME, 'w+')
 
-def log(str):
-    logfile = open('log.txt', 'a+')
-    print(str, '\n')
-    logfile.write(str + '\n')
+def log(*obj):
+    global logfile
+    str = ''
+    for o in obj:
+        str += o
+    print(str)
+    logfile = open(FILENAME, 'a+')
+    logfile.write(str)
     logfile.close()
 
 def close():
-    open('log.txt', 'w')
+    global logfile
+    logfile.close()
