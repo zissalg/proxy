@@ -76,9 +76,6 @@ class Proxy:
         if (self.blacklist.isBan(webserver)):
             print(webserver, ' is banned, close connection!!!')
             f = open('403.html', 'r')
-            response = "Permission denied"
-            forbidden = "HTTP/1.1 403 Forbidden, Access denied\n"+"Content-Type: text/html\n"+"\n"
-            conn.sendall(forbidden.encode('utf-8'))
             conn.sendall(f.read().encode('utf-8'))
             f.close()
             conn.close()
