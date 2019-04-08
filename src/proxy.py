@@ -1,5 +1,6 @@
 import socket
 import log
+import blacklist
 import _thread
 
 class Proxy:
@@ -14,6 +15,7 @@ class Proxy:
     port = 0
     should_close = False
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    blacklist = blacklist.Blacklist('blacklist.conf')
 
     def parse_url(self, requests):
         first_line = requests.split('\n')[0]
@@ -69,6 +71,15 @@ class Proxy:
     def __client_thread(self, conn, addr):
         requests = conn.recv(self.MAX_DATA)
         webserver = self.parse_url(requests.decode('ASCII'))
+
+        if (self.blacklist.isBan(webserver)):
+            print(webserver, ' is banned, close connection!!!')
+            f = open('403.html', 'r')
+            conn.sendall(f.read().encode('utf-8'))
+            f.close()
+            conn.close()
+            return
+
         self.__communicate(self, webserver, conn, requests)
         conn.close()
 
