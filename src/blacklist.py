@@ -22,7 +22,3 @@ class Blacklist:
                 return True
 
         return False
-            
-
-blk = Blacklist('blacklist.txt')
-blk.isBan('www.phimmoi.net')
