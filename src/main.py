@@ -1,4 +1,4 @@
-import proxy
+import proxyserver
 import log
 import sys
 import console
@@ -10,5 +10,6 @@ if (len(sys.argv) == 1):
 elif (len(sys.argv) == 2):
     port = int(sys.argv[1])
 
-console.start(proxy.Proxy('127.0.0.1', port, 'blacklist.conf'))
+proxyserver = proxyserver.ProxyServer('127.0.0.1', port, 'blacklist.conf')
+console.start(proxyserver)
 log.close()

@@ -8,11 +8,9 @@ class RequestParser:
     __close_request = False
 
     def __init__(self, request):
-        # Decode sang ascii
         self.__request = request.decode('ascii')
         log.log(self.__request, '\n')
-        # Kiem tra xem co phai la close request khong (cai nay t tu cho)
-        if (self.is_close_request()):
+        if (len(self.__request) == 0):
             return
 
         self.__parseurl()
@@ -55,9 +53,6 @@ class RequestParser:
 
     def geturl(self):
         return self.__url
-
-    def is_close_request(self):
-        return self.__request.find('MYCLOSEREQUEST') != -1
 
 '''
 parser = RequestParser(b'GET http://www.phimmoi.net/phim/phong-than-duong-tien-truyen-ky-6521/ HTTP/1.1 \
