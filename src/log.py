@@ -1,12 +1,15 @@
 FILENAME = 'log.txt'
 logfile = open(FILENAME, 'w+')
 
-def log(*obj):
+def log(*obj, useprint = True):
     global logfile
     str = ''
     for o in obj:
         str += o
-    print(str)
+
+    if useprint:
+        print(str)
+
     logfile = open(FILENAME, 'a+')
     logfile.write(str)
     logfile.close()
