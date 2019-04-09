@@ -8,15 +8,19 @@ class RequestParser:
     __close_request = False
 
     def __init__(self, request):
+        # Decode sang ascii
         self.__request = request.decode('ascii')
         log.log(self.__request, '\n')
-
+        # Kiem tra xem co phai la close request khong (cai nay t tu cho)
         if (self.is_close_request()):
             return
 
         self.__parseurl()
         self.__parsewebserver()
 
+    '''
+    --- Ham nay lau url cua request
+    '''
     def __parseurl(self):
         lines = self.__request.split('\n')
 
@@ -26,7 +30,11 @@ class RequestParser:
 
         firstline = lines[0]
         self.__url = firstline.split(' ')[1]
-    
+    '''''''''''''''
+    Ham nay lay webserver
+    Vi du: http://www.phimmoi.net/
+    Webserver: www.phimmoi.net
+    '''''''''''''''
     def __parsewebserver(self):
         http = 'http://'
         httppos = self.__url.find(http)
